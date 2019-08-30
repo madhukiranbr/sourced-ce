@@ -60,6 +60,7 @@ If you want more details of each step, you will find in the [**Quick Start Guide
 If you have any problem running **source{d} CE** you can take a look at out [Troubleshooting](docs/troubleshooting.md) section, and our [source{d} Forum](https://forum.sourced.tech), where you can also ask for help when using **source{d} CE**. If you spotted a bug, or have a feature request, please [open an issue](https://github.com/src-d/sourced-ce/issues) to let us know abut it.
 
 
+
 ## Architecture
 
 _For more details on the architecture of this project, read [docs/architecture.md](docs/architecture.md)._
